@@ -1,4 +1,4 @@
-package pl.coderslab;
+package pl.coderslab.errors;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.ui.Model;
