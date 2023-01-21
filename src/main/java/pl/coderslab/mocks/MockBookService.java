@@ -1,5 +1,6 @@
 package pl.coderslab.mocks;
 
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 import pl.coderslab.beans.Book;
 
